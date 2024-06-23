@@ -36,7 +36,7 @@ For the examples to work correctly, the sensor must be attached to the following
 | VIN | 3V3 |
 | GND | GND |
 | SDA | GPIO4 |
-| SDA | GPIO5 |
+| SCL | GPIO5 |
 | XSHUT | Unconnected (Used to reset device)|
 
 # Installation
